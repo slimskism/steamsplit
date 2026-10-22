@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D25, D26, D27, D28, D29, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40, D41, D42, D43, D44, D45, D46, D7",Diode_DO-35,23,Diode,
+J1,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03,
+J2,IDC-Header_2x08_P2.54mm_Vertical,1,Conn_02x08_Top_Bottom,
+"S25, S26, S27, S28, S29, S30, S31, S32, S33, S34, S35, S36, S37, S38, S39, S40, S41, S42, S43, S44, S45, S46, S7",Hotswap_MX,23,Keyswitch,

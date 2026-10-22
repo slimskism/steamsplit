@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2, D27, D28, D29, D3, D30, D31, D32, D33, D34, D35",Diode_DO-35,12,Diode,
+J1,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04,
+"J1-RHS1, J2-LHS1",IDC-Header_2x08_P2.54mm_Vertical,2,Conn_02x08_Top_Bottom,
+"S1, S2, S27, S28, S29, S3, S30, S31, S32, S33, S34, S35",Hotswap_MX,12,Keyswitch,
+U1,Raspberry_Pi_Pico,1,Raspberry_Pi_Pico,
